@@ -3,7 +3,7 @@ FreeCodeCamp Basic Algorith Modules
 
 # JavaScript Practice Exercises
 
-- [ ] Convert Celsius to Fahrenheit
+- [x] Convert Celsius to Fahrenheit
 - [ ] Reverse a String
 - [ ] Factorialize a Number
 - [ ] Find the Longest Word in a String
